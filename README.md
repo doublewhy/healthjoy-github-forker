@@ -1,6 +1,3 @@
-# healthjoy-github-forker
- Take Home assignment for HealthJoy
-
 # README
 
 ## Introduction
