@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pytest
+jinja2
+httpx
+PyGithub
